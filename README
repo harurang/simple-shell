@@ -1,0 +1,6 @@
+This program is a simple shell that supports shell or stream redirection.
+
+For example: ls -l > outputsort alice.txt > sorted.txt
+sort < alice.txt > sorted.txtls -l | grep sh | wc -l
+
+This program also allows the user to change directories and exit.
